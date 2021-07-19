@@ -129,7 +129,7 @@ If you do not have much time to help, please let someone else answer the questio
 If the question does not reveal where they are in the curriculum, ask them so that you can adjust your expectations to their knowledge level.
 
 #### 6. Ask for clarifications
-If the question seems confusing or ambiguous, ask for more clarity, or politely link them to our bot command `/question`, which links to the [How to be great at asking coding questions](https://medium.com/@gordon_zhu/how-to-be-great-at-asking-questions-e37be04d0603) article mentioned above.
+If the question seems confusing or ambiguous, ask for more clarity, or politely link them to our bot command `/question`, which links to the [How to be great at asking coding questions](https://medium.com/@gordon_zhu/how-to-be-great-at-asking-questions-e37be04d0603) article.
 
 #### 7. Ask for live code
 If the question needs to have live code to fully understand or debug, ask them use [replit](https://replit.com) to provide it. If the problem is difficult to isolate, they should recreate the problem with isolated code.
